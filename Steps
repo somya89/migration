@@ -1,0 +1,5 @@
+maven clean
+Edit script.sql
+change version number in pom.xml, migration.bat
+maven install
+maven build goal assembly:single

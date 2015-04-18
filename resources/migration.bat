@@ -1,0 +1,1 @@
+java -jar Migration-1.0.jar >> progress.log 2>&1
